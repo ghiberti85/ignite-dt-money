@@ -1,0 +1,18 @@
+{
+    "transactions": [
+        {
+            "id": 1,
+            "type": "income",
+            "category": "Venda",
+            "price": 14000,
+            "createdAt": "2023-11-20T23:14:31.061Z"
+        },
+        {
+            "id": 2,
+            "type": "outcome",
+            "category": "Alimentação",
+            "price": 14000,
+            "createdAt": "2023-11-20T23:16:47.3s61Z"
+        }
+    ]
+}
