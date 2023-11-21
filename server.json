@@ -15,6 +15,22 @@
             "category": "Alimentação",
             "price": 59,
             "createdAt": "2023-11-20T23:16:47.3s61Z"
+        },
+        {
+            "id": 3,
+            "description": "Ignite Rockseat",
+            "type": "outcome",
+            "category": "Educação",
+            "price": 1980,
+            "createdAt": "2023-12-22T23:18:49.3s61Z"
+        },
+        {
+            "id": 4,
+            "description": "Refatoração de Código Website",
+            "type": "income",
+            "category": "Venda",
+            "price": 5000,
+            "createdAt": "2024-01-15T08:30:15.3s61Z"
         }
     ]
 }
