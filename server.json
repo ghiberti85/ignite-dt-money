@@ -1,36 +1,68 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de site",
-            "type": "income",
-            "category": "Venda",
-            "price": 14000,
-            "createdAt": "2023-11-19T23:14:31.061Z"
-        },
-        {
-            "id": 2,
-            "description": "Hamburguer",
-            "type": "outcome",
-            "category": "Alimentação",
-            "price": 59,
-            "createdAt": "2023-11-20T23:14:31.061Z"
-        },
-        {
-            "id": 3,
-            "description": "Ignite Rockseat",
-            "type": "outcome",
-            "category": "Educação",
-            "price": 1980,
-            "createdAt": "2023-12-21T23:14:31.061Z"
-        },
-        {
-            "id": 4,
-            "description": "Refatoração de Código Website",
-            "type": "income",
-            "category": "Venda",
-            "price": 5000,
-            "createdAt": "2023-12-22T23:14:31.061Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-11-19T23:14:31.061Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 59,
+      "createdAt": "2023-11-20T23:14:31.061Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rockseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2023-11-21T23:14:31.061Z"
+    },
+    {
+      "id": 4,
+      "description": "Refatoração de Código Website",
+      "type": "income",
+      "category": "Venda",
+      "price": 5000,
+      "createdAt": "2023-11-22T23:14:31.061Z"
+    },
+    {
+      "description": "Mercado",
+      "category": "Compras",
+      "price": 300,
+      "type": "outcome",
+      "createdAt": "2023-11-24T15:05:25.930Z",
+      "id": 5
+    },
+    {
+      "description": "Açai",
+      "category": "Alimentação",
+      "price": 5,
+      "type": "outcome",
+      "createdAt": "2023-11-24T15:24:50.160Z",
+      "id": 6
+    },
+    {
+      "description": "Pastel",
+      "category": "Alimentação",
+      "price": 5,
+      "type": "outcome",
+      "createdAt": "2023-11-24T15:25:43.451Z",
+      "id": 7
+    },
+    {
+      "description": "Pão na chapa",
+      "category": "Alimentação",
+      "price": 4,
+      "type": "outcome",
+      "createdAt": "2023-11-24T15:27:42.510Z",
+      "id": 8
+    }
+  ]
 }
